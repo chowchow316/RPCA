@@ -8,7 +8,7 @@ This code implements the greedy approach in [Robust Principal Compnent Analysis 
   - Implented by Qian Sun, Arizona State University. 
 
 # Usage
-run `SyntheticExp.m`
+run `surveillanceExp.m`
 
 # Version
 1.0
